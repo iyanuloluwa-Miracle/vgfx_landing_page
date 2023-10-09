@@ -1,0 +1,43 @@
+<svg width="78" height="84" viewBox="0 0 78 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 12795">
+<circle id="Ellipse 1" cx="39" cy="39" r="39" fill="#7D0003"/>
+<g id="Group 12793">
+<g id="Clip path group">
+<mask id="mask0_5003_28227" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="6" width="78" height="78">
+<g id="id0">
+<path id="Vector" d="M39 6C60.5392 6 78 23.461 78 45C78 66.5392 60.539 84 39 84C17.4608 84 0 66.5392 0 45C0 23.4608 17.4608 6 39 6Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_5003_28227)">
+<g id="Group">
+<g id="Clip path group_2">
+<mask id="mask1_5003_28227" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="6" width="78" height="78">
+<g id="id2">
+<path id="Vector_2" d="M39 6C60.5392 6 78 23.461 78 45C78 66.5392 60.539 84 39 84C17.4608 84 0 66.5392 0 45C0 23.4608 17.4608 6 39 6Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_5003_28227)">
+<g id="Group_2">
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M8.11979 32.9222C11.7047 29.3373 17.5707 29.3371 21.1556 32.9222L39.0011 50.7677L56.8466 32.9222C60.4315 29.3371 66.2974 29.3373 69.8824 32.9222C73.4673 36.5071 73.4673 42.3731 69.8824 45.958L47.4531 68.3873C43.654 72.1864 34.348 72.1864 30.5488 68.3873L8.11959 45.958C4.53468 42.3731 4.53468 36.5071 8.11959 32.9222H8.11979Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Clip path group_3">
+<mask id="mask2_5003_28227" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="6" width="78" height="78">
+<g id="id6">
+<path id="Vector_4" d="M39 6C60.5392 6 78 23.461 78 45C78 66.5392 60.539 84 39 84C17.4608 84 0 66.5392 0 45C0 23.4608 17.4608 6 39 6Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_5003_28227)">
+<g id="Group_3">
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M8.11979 32.9222C11.7047 29.3373 17.5707 29.3371 21.1556 32.9222L39.0011 50.7677L56.8466 32.9222C60.4315 29.3371 66.2974 29.3373 69.8824 32.9222C73.4673 36.5071 73.4673 42.3731 69.8824 45.958L47.4531 68.3873C43.654 72.1864 34.348 72.1864 30.5488 68.3873L8.11959 45.958C4.53468 42.3731 4.53468 36.5071 8.11959 32.9222H8.11979Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path id="Vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M38.8623 17C43.2044 17 46.7243 20.5199 46.7243 24.8621C46.7243 29.2042 43.2044 32.7241 38.8623 32.7241C34.5201 32.7241 31 29.2042 31 24.8621C31 20.5199 34.5199 17 38.8623 17Z" fill="white"/>
+</g>
+</g>
+</svg>

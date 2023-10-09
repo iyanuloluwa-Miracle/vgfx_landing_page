@@ -64,8 +64,43 @@ a {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+
+.policy {
+  padding-top: 10vh;
+  width: 100%;
+  height: 30vh;
+  background: #FAFAFA;
 
 }
+
+.ppolicy {
+  margin-top: 8vh;
+}
+
+.background-policy {
+  background: #FAFAFA url('/asset/image/background.png') center/cover no-repeat;
+
+}
+
+.active2 {
+  color: #7D0003;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 5px;
+  border-bottom: 3px solid #7D0003;
+  border-radius: 2px 2px 0px 0px;
+}
+
+.navlist2 {
+  color: #1C1C1C;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 5px;
+}
+
+
 
 .hero-section2 {
   padding-top: 20vh;
@@ -418,6 +453,19 @@ footer h5 {
   line-height: 23.86px;
 }
 
+
+.base-footer .terms-condition {
+  border-radius: 4px;
+  background: #DADADA;
+  padding: 12px 1.5rem;
+  color: #7D0003;
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.86px;
+}
+
 .base-footer li img {
   width: 35px;
   height: 32px;
@@ -432,6 +480,13 @@ footer h5 {
   color: white;
   padding-top: 2.5rem;
   padding-bottom: 4.5rem;
+}
+
+.download2 {
+  background: #7d0003;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
 }
 
 .download>div {
@@ -449,6 +504,36 @@ footer h5 {
   line-height: 60px;
   letter-spacing: -1.8px;
   width: 401px;
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.questions {
+  color: #1C1C1C;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.ques {
+  color: #1C1C1C;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.ans {
+  color: #1C1C1C;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+.download2 h4 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 60px;
+  letter-spacing: -1.8px;
   max-width: 100%;
   margin-bottom: 1rem;
 }
@@ -628,6 +713,85 @@ footer h5 {
   line-height: 40px;
   width: 738px;
 }
+
+
+/* contact-us style  */
+.hero-wrapper{
+  margin-top: 20vh;
+}
+.contact-text{
+  color: #7D0003;
+  font-family: Aeonik TRIAL;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19.416px;
+}
+
+.contact-paragraph{
+  color: #1C1C1C;
+  font-family: Aeonik TRIAL;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36.4px; /* 202.222% */
+}
+
+.contact-text-1{
+  color: #1C1C1C;
+  font-family: Aeonik TRIAL;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px; /* 175% */
+}
+
+.contact-text-2{
+  color: var(--Gray-3, #828282);
+  font-family: Aeonik TRIAL;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+
+}
+
+.contact-text-3{
+  color: #1C1C1C;
+  font-family: Aeonik TRIAL;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 125% */
+}
+
+.wrapper-1{
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  
+
+}
+
+.contact-text-wrapper{
+  margin-top: -20px;
+}
+
+
+.home-icon{
+  margin-left: 10px;
+}
+
+.home-icon1{
+  margin-left: -27px;
+}
+
+.home-icon2{
+  margin-left: -37px;
+}
+
+
+
+
 
 
 /* how it works */
