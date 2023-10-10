@@ -121,8 +121,9 @@ a {
 
 .p-npf {
   color: #E6E6E6;
-  font-size: 16px;
+  font-size: 24px;
   margin: 20px 0px;
+  line-height: 40px;
 }
 
 
@@ -130,10 +131,14 @@ a {
   height: 50px;
   width: 150px;
   border-radius: 5px;
-  background: #1C1C1C;
+  background: #FFF;
   box-shadow: 0px 21px 45px 0px rgba(30, 66, 138, 0.10);
 }
+.hero-buttons{
+  background: #FFF;
+  box-shadow: 0px 21px 45px 0px rgba(30, 66, 138, 0.10);
 
+}
 
 .google-app2 {
   height: 50px;
@@ -476,7 +481,7 @@ footer h5 {
 }
 
 .download {
-  background: #7d0003;
+  background-color: #7d0003;
   color: white;
   padding-top: 2.5rem;
   padding-bottom: 4.5rem;
