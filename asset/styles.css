@@ -223,8 +223,9 @@ a {
 
 .p-npf-reduce {
   color: rgba(44, 44, 44, 0.80);
-  font-size: 16px;
+  font-size: 20px;
   margin: 30px 0px;
+  line-height: 40px;
 }
 
 .reduce-span {
@@ -338,10 +339,19 @@ a {
   color: #2C2C2C;
   text-align: justify;
   font-family: Aeonik TRIAL;
-  font-size: 18px;
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
-  line-height: 32px;
+  line-height: 34px;
+}
+
+.paragraph-img{
+  color: #333;
+  font-family: Aeonik TRIAL;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 39px */
 }
 
 /* end home page  */
